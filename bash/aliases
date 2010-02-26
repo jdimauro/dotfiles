@@ -1,5 +1,29 @@
+# Ruby
 alias ss="./script/server"
+alias sg="./script/generate"
+alias sp="./script/plugin install"
+alias sc="./script/console"
+alias r="rake"
+alias rmig="rake db:migrate"
+
+# Top
 alias tu="top -o cpu" # sorted by cpu
 
 # Git
 alias g="git status" 
+function gg {
+  git commit -v -a -m "$*"
+}
+
+
+# Files
+alias l="ls -l"
+alias la="ls -la"
+alias ll="ls -laGh"
+# creates a directory and cds into it
+function take {
+  #statements
+  mkdir $1
+  cd $1
+}
+
