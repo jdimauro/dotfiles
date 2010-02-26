@@ -1,2 +1,5 @@
 alias ss="./script/server"
 alias tu="top -o cpu" # sorted by cpu
+
+# Git
+alias g="git status" 
