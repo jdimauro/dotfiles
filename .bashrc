@@ -1,1 +1,1 @@
-. ~/bin/dotfiles/bashrc
+. ~/bin/dotfiles/bash/bashrc
