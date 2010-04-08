@@ -12,3 +12,8 @@ Host mediahub
   Hostname mediahub.local
   user admini
   Port 22
+
+Host ubuntu
+  Hostname 192.168.1.42
+  user josh
+  Port 22
