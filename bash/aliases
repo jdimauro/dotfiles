@@ -10,7 +10,7 @@ alias rmig="rake db:migrate"
 alias tu="top -o cpu" # sorted by cpu
 
 # Git
-alias g="git status" 
+alias g="git status"
 function gg {
   git commit -v -a -m "$*"
 }
@@ -26,4 +26,3 @@ function take {
   mkdir $1
   cd $1
 }
-
