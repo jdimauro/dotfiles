@@ -3,3 +3,12 @@ Host joyent
   User jdimauro
   Port 22
 
+Host mhub
+  Hostname mediahub.local
+  user admini
+  Port 22
+
+Host mediahub
+  Hostname mediahub.local
+  user admini
+  Port 22
