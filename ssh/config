@@ -17,3 +17,8 @@ Host ubuntu
   Hostname 192.168.1.42
   user josh
   Port 22
+
+Host v-ubuntu
+  Hostname 172.16.91.129
+  user josh
+  Port 22
