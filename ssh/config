@@ -27,3 +27,8 @@ Host production
   Hostname 192.168.0.27
   user josh
   Port 22
+
+Host production-deploy
+  Hostname 192.168.0.27
+  user deploy
+  port 22
