@@ -17,13 +17,11 @@ Host ubuntu
   Hostname 192.168.1.42
   user josh
   Port 22
-<<<<<<< HEAD
   
 Host alloysp
   Hostname 174.121.152.91
   user alloysp
   Port 2222
-=======
 
 Host v-ubuntu
   Hostname 172.16.91.129
@@ -44,4 +42,3 @@ Host asicts
   Hostname 174.121.152.91
   user alloysp
   port 2222
->>>>>>> 10c68757fb271e9d379a109dab761d5eb4030f7d
