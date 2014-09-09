@@ -1,1 +1,5 @@
 . ~/bin/dotfiles/bash/env
+PATH="/Users/josh/.gem/jruby/1.8/bin:/Users/josh/bin:/usr/local/git/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:/home/josh/bin:/var/lib/gems/1.8/bin:$PATH"
+export PATH
+export EDITOR="/usr/bin/mate -w"
+export MANPATH=/usr/local/git/man:$MANPATH

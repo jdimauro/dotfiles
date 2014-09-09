@@ -28,3 +28,8 @@ function take {
   mkdir $1
   cd $1
 }
+
+alias con="tail -40 -f /var/log/system.log"
+
+bind '"\e[A":history-search-backward'
+bind '"\e[B":history-search-forward'

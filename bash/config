@@ -21,3 +21,5 @@ if [ -f "${SSH_ENV}" ]; then
 else
   start_agent;
 fi
+
+source `brew --repository`/Library/Contributions/brew_bash_completion.sh
