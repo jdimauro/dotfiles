@@ -1,4 +1,4 @@
 PATH="/Users/josh/.gem/jruby/1.8/bin:/Users/josh/bin:/usr/local/git/bin:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:/home/josh/bin:/var/lib/gems/1.8/bin:$PATH"
 export PATH
-export EDITOR="/users/josh/bin/mate -w"
+export EDITOR="/usr/bin/emacs"
 export MANPATH=/usr/local/git/man:$MANPATH
